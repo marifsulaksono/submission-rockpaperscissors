@@ -10,7 +10,7 @@ The dataset contains images from three classes:
 - Rock: 726 images
 - Paper: 712 images
 - Scissors: 750 images
-The data is augmented to improve model generalization with techniques like rotation, horizontal flipping, and shearing.
+<br />The data is augmented to improve model generalization with techniques like rotation, horizontal flipping, and shearing.
 
 ## Model Architecture
 The model is a CNN built with:
